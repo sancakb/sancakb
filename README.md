@@ -17,8 +17,8 @@
   - Designed and built a company-wide Blazor component library
     - Includes corporate identity, accessibility, reusable components, unified style guides.
 - **AI adoption**
-- Initiated and drove company-wide AI rollout:
-  - GitHub Copilot for ~100 engineers, workshops on Copilot, ChatGPT, and Claude for 200+ office staff.
+  - Initiated and drove company-wide AI rollout:
+   - GitHub Copilot for ~100 engineers, workshops on Copilot, ChatGPT, and Claude for 200+ office staff.
 - **Engineering culture**
   - Established mandatory code reviews (GitLab), agile ceremonies, and a unified build pipeline across 60+ software projects.
 
