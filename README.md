@@ -1,4 +1,4 @@
-# Burak Sancak
+Burak Sancak
 **`Digital Craftsman`**
 
 **Tech Lead & Full-Stack Developer** — modernizing legacy systems at [centrotherm international AG](https://www.centrotherm.de/en), building native iOS apps on the side.
