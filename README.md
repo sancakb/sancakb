@@ -10,9 +10,17 @@
 ## What I do
 
 - **Legacy modernization**
+  - Leading the ground-up rewrite of centrotherm's software:
+  - 20-year-old C++/.NET 4.8 codebase → .NET 9 + Blazor.
+    - Error rate −90%, deployment time −90%
 - **Internal UI/UX framework**
+  - Designed and built a company-wide Blazor component library
+    - Includes corporate identity, accessibility, reusable components, unified style guides.
 - **AI adoption**
+- Initiated and drove company-wide AI rollout:
+  - GitHub Copilot for ~100 engineers, workshops on Copilot, ChatGPT, and Claude for 200+ office staff.
 - **Engineering culture**
+  - Established mandatory code reviews (GitLab), agile ceremonies, and a unified build pipeline across 60+ software projects.
 
 ## Currently building (privately)
 
