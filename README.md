@@ -24,13 +24,13 @@
 
 ## Currently building (privately)
 
-**ONCE** — name could be changed — a native iOS productivity-mental-health app (Swift, SwiftUI, SwiftData). Focused on Apple Human Interface Guidelines, clean architecture, and doing one thing well. Closed source until release.
+**ONCE** — a native iOS productivity-mental-health app (Swift, SwiftUI, SwiftData). Focused on Apple Human Interface Guidelines, clean architecture, and doing one thing well. Closed source until release.
 
 ## Stack
 
 | | |
 |---|---|
-| **Backend** | C# / .NET 9, ASP.NET Core, Entity Framework Core, gRPC, GoLang |
+| **Backend** | C# / .NET 10, ASP.NET Core, Entity Framework Core, gRPC, GoLang |
 | **Frontend** | Blazor, React, Next.js, TypeScript, Framer |
 | **Mobile** | Swift, SwiftUI, SwiftData, Kotlin, Flutter |
 | **Architecture** | Clean Architecture, MVVM, Microservices, DI |
